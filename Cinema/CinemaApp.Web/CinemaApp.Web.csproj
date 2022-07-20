@@ -13,4 +13,13 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.12" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\Domain\" />
+    <Folder Include="Models\Identity\" />
+    <Folder Include="Views\Manage\" />
+    <Folder Include="Views\MovieModels\" />
+    <Folder Include="Views\ShoppingCarts\" />
+    <Folder Include="Views\Roles\" />
+  </ItemGroup>
+
 </Project>

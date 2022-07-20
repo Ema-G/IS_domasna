@@ -97,3 +97,4 @@ C:\Users\User\source\repos\IS_domasna\Cinema\CinemaApp.Web\obj\Debug\netcoreapp3
 C:\Users\User\source\repos\IS_domasna\Cinema\CinemaApp.Web\obj\Debug\netcoreapp3.1\CinemaApp.Web.dll
 C:\Users\User\source\repos\IS_domasna\Cinema\CinemaApp.Web\obj\Debug\netcoreapp3.1\CinemaApp.Web.pdb
 C:\Users\User\source\repos\IS_domasna\Cinema\CinemaApp.Web\obj\Debug\netcoreapp3.1\CinemaApp.Web.genruntimeconfig.cache
+C:\Users\User\source\repos\IS_domasna\Cinema\CinemaApp.Web\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contact.cshtml.g.cs
